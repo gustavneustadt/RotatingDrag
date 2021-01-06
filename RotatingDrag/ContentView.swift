@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  RotatingDrag
 //
-//  Created by Gustav on 06.01.21.
+//  Created by Gustav Neustadt on 06.01.21.
 //
 
 import SwiftUI
