@@ -47,6 +47,8 @@
 		6F1702C425A5BFD5005E849C /* RotatingDragUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatingDragUITests.swift; sourceTree = "<group>"; };
 		6F1702C625A5BFD5005E849C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F1702D525A5BFFB005E849C /* KnobView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnobView.swift; sourceTree = "<group>"; };
+		6F1702DA25A65D08005E849C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6F1702DB25A65E7B005E849C /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,8 @@
 		6F17029B25A5BFD4005E849C = {
 			isa = PBXGroup;
 			children = (
+				6F1702DA25A65D08005E849C /* README.md */,
+				6F1702DB25A65E7B005E849C /* LICENSE */,
 				6F1702A625A5BFD4005E849C /* RotatingDrag */,
 				6F1702B825A5BFD5005E849C /* RotatingDragTests */,
 				6F1702C325A5BFD5005E849C /* RotatingDragUITests */,
